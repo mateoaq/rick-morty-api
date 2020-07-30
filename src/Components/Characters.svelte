@@ -28,7 +28,7 @@
       grid-template-columns: repeat(2, 1fr);
     }
   }
-  @media (max-width: 414px) {
+  @media (max-width: 614px) {
     .card-container {
       grid-template-columns: repeat(1, 1fr);
     }
