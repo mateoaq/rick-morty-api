@@ -40,6 +40,9 @@
     list-style: none;
     text-align: initial;
   }
+  li {
+    user-select: none;
+  }
 </style>
 
 <div class="Card">
