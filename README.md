@@ -1,3 +1,6 @@
+# DEMO in Netlify:
+
+[Rick and Morty con Svelte](https://clever-beaver-6d9f99.netlify.app/ "Deploy in Netlify")
 
 # svelte app
 
